@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.mse.forum.ForumApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 34.366 s <<< FAILURE! - in com.mse.forum.ForumApplicationTests
+testTopics(com.mse.forum.ForumApplicationTests)  Time elapsed: 0.276 s  <<< ERROR!
+java.lang.IllegalArgumentException: Header value must not be null
+	at com.mse.forum.ForumApplicationTests.testTopics(ForumApplicationTests.java:38)
+
